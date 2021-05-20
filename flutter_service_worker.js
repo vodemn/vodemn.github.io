@@ -40,7 +40,7 @@ const RESOURCES = {
 "assets/assets/screenshots/snake/cropped/2-light.png": "6af48691f24193d0f4dea221333095b0",
 "assets/FontManifest.json": "7803f6470e6f6bbc91166f860b8fd198",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "2df4dbad4e167abe0dfb4916b1deb7a9",
+"assets/NOTICES": "88f2dbedc6261fe847ba374b88c75323",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00bb2b684be61e89d1bc7d75dee30b58",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "4b6a9b7c20913279a3ad3dd9c96e155b",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dffd9504fcb1894620fa41c700172994",
@@ -48,9 +48,9 @@ const RESOURCES = {
 "google2ca50de10964b4ff.html": "a31a5b073d2f7d57519ee5ce5d66d08a",
 "icons/Icon-192.png": "137cbd5e6cfe78de88cfe0f3c8389960",
 "icons/Icon-512.png": "d6d60c17f6d69ebd896e9765f7ec49a2",
-"index.html": "6526b474098954ddff7cf098f7de6b58",
-"/": "6526b474098954ddff7cf098f7de6b58",
-"main.dart.js": "aa5b2dc1ccb032f3d90b927a9f7c7d7f",
+"index.html": "a85ca5c7a894c64491ec720f7918e954",
+"/": "a85ca5c7a894c64491ec720f7918e954",
+"main.dart.js": "07ba83c6a8113249baa27bbe60de1467",
 "manifest.json": "8400e909806513d2fbeff32e06a949b3",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
